@@ -6,15 +6,22 @@ import MealItem from "../components/MealItem";
 
 function MealsOverviewScreen({ route }){
     const catId = route.params.categoryId
+    console.log('catId', catId)
 
     const displayedMeals = MEALS.filter((mealItem) => {
         return mealItem.categoryIds.indexOf(catId) >= 0
     })
 
-    function renderMealItem() {
+    function renderMealItem(itemData) {
+    
         return(
+
             <MealItem 
                 title={itemData.item.title}
+                imageUrl={itemData.item.imageUrl}
+                affordability={itemData.item.affordability}
+                complexity={itemData.item.complexity}
+                duration={itemData.item.duration}
             />
         )
 
@@ -22,7 +29,7 @@ function MealsOverviewScreen({ route }){
 
     return(
         <View style={styles.container}>
-            <Text>Meals Overview - {{ catId }}</Text>
+            <Text>Meals Overview - { catId }</Text>
             <FlatList 
                 data={displayedMeals}
                 keyExtractor={(item) => item.id}
