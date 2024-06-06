@@ -320,7 +320,7 @@ export const MEALS = [
     'Rescate en el tiempo',
     'Acción',
     'Aventura',
-    'https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg',
+    'https://bitacoradecora.galiciae.com/wp-content/uploads/2021/05/D_NQ_NP_605625-MLA25484232486_042017-O.jpg',
     35,
     [
       'Fecha de estreno: 2003 ',
@@ -343,7 +343,7 @@ export const MEALS = [
     ['c9'],
     'Spirit:El corcel indomable',
     'Familiar',
-    'https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg',
+    'https://m.media-amazon.com/images/S/pv-target-images/1a58e74356b2b511703aec759717c8f4a2fef96d719b2776220105a663dc1da2.jpg',
     45,
     [
       'Fecha de estreno: 19 de julio de 2002 ',
@@ -367,7 +367,7 @@ export const MEALS = [
     'Space Jam Una nueva era',
     'Comedia',
     'Deportes',
-    'https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg',
+    'https://cdn.milenio.com/uploads/media/2021/07/15/donde-ver-space-jam-una.jpg',
     30,
     [
       'Fecha de estreno: 16 de julio de 2021',
