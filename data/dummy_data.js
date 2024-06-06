@@ -271,7 +271,7 @@ export const MEALS = [
     'Familiar',
     'Amistad',
     'Comedia',
-    'https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg',
+    'https://compote.slate.com/images/aead9b4c-c925-4175-b797-5ee15e74f5c1.jpg',
     240,
     [
       'Duracion: 1h 45min',
@@ -296,7 +296,7 @@ export const MEALS = [
     'SpiderMan: A travez del spiderverso',
     'Acción y aventura',
     'Comedia',
-    'https://cdn.pixabay.com/photo/2018/07/10/21/23/pancake-3529653_1280.jpg',
+    'https://mx.web.img3.acsta.net/pictures/22/12/21/16/31/3659442.jpg',
     20,
     [
       'Fecha de estreno:2023',
