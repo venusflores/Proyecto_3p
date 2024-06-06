@@ -17,7 +17,7 @@ export const CATEGORIES = [
 export const MEALS = [
   new Meal(
     'm1',
-    ['c1', 'c2'],
+    ['c1'],
     'Moana',
     'Familiar',
     'Acción y Aventura',
@@ -47,7 +47,7 @@ export const MEALS = [
 
   new Meal(
     'm2',
-    ['c1','c2'],
+    ['c1'],
     'El extraño mundo de jack',
     'Familiar',
     'Fantasticas',
